@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: A New Blog in the House
+categories: Blog
 
 ---
 
