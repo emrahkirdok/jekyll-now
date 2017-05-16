@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
 Hi there!
 
 I am a Post-doctoral researcher in İstanbul University, Department of Molecular Biology and Genetics.
 
-### Contact me
+Here is my e-mail if you want to contact me:
 
-[email@domain.com](mailto:email@domain.com)
+emrahkirdok [at] gmail [dot] com
